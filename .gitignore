@@ -1,0 +1,8 @@
+bin/
+obj/
+.idea/
+*.db
+*.db-shm
+*.db-wal
+domashno.db
+appsettings.Development.json

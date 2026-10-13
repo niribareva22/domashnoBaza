@@ -1,0 +1,6 @@
+@domashnoBaza_HostAddress = http://localhost:5157
+
+GET {{domashnoBaza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
